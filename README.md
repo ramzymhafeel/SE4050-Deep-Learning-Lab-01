@@ -76,3 +76,14 @@ Mount Google Drive when required.
 Update dataset paths when necessary.
 Run all cells in order.
 Confirm that all tables and visualizations are displayed.
+
+## Status
+
+- [x] Environment setup completed
+- [x] Repository structure created
+- [x] Task 1 notebook created
+- [x] Task 2 notebook created
+- [x] Task 1 implementation completed
+- [x] Task 2 implementation completed
+- [ ] Final testing completed
+- [ ] Submission completed
