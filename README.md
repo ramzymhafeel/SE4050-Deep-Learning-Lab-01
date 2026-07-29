@@ -85,5 +85,5 @@ Confirm that all tables and visualizations are displayed.
 - [x] Task 2 notebook created
 - [x] Task 1 implementation completed
 - [x] Task 2 implementation completed
-- [ ] Final testing completed
-- [ ] Submission completed
+- [x] Final testing completed
+- [x] Submission completed
